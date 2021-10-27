@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+# Vmicro extension for Visual Studio for programming arduino code in C
+__vm/
