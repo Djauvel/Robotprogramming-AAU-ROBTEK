@@ -107,14 +107,11 @@
     <DebuggerFlavor>VisualMicroDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="CourseExcercises\Course1\RandomValue.ino" />
-    <None Include="CourseExcercises\Course1\Variables.ino" />
-    <None Include="CourseExcercises\Course2\DataValues.ino" />
-    <None Include="CourseExcercises\Course3\IfElseAndSwitch.ino" />
-    <None Include="CourseExcercises\Course4\ArrayLeaning.ino" />
-    <None Include="CourseExcercises\Course4\RobotMotorDriveTest.ino" />
-    <None Include="CourseExcercises\Course4\RoverSimulation.ino" />
-    <None Include="CourseExcercises\Course4\SimpleFunctions.ino" />
+    <None Include="Robotprogramming-AAU.ino">
+      <FileType>CppCode</FileType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
     <None Include="src\arduino folders read me.txt">
     </None>
   </ItemGroup>

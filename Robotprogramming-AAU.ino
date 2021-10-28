@@ -1,4 +1,4 @@
-﻿/*
+/*
  Name:		Robotprogramming_AAU.ino
  Created:	10/28/2021 8:15:16 AM
  Author:	admin
@@ -11,5 +11,5 @@ void setup() {
 
 // the loop function runs over and over again until power down or reset
 void loop() {
-
+  
 }
