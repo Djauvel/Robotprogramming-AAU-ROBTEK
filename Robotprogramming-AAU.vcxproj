@@ -107,7 +107,6 @@
     <DebuggerFlavor>VisualMicroDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="Course6\StructRover.ino" />
     <None Include="CourseExcercises\Course1\RandomValue.ino" />
     <None Include="CourseExcercises\Course1\Variables.ino" />
     <None Include="CourseExcercises\Course2\DataValues.ino" />
@@ -116,6 +115,7 @@
     <None Include="CourseExcercises\Course4\RobotMotorDriveTest.ino" />
     <None Include="CourseExcercises\Course4\RoverSimulation.ino" />
     <None Include="CourseExcercises\Course4\SimpleFunctions.ino" />
+    <None Include="Excercises\Course6\StructExcercise.ino" />
     <None Include="src\arduino folders read me.txt">
     </None>
   </ItemGroup>

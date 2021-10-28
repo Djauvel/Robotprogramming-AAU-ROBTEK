@@ -28,11 +28,8 @@
     <Filter Include="Excercises\Course4">
       <UniqueIdentifier>{05fa2c68-bc83-4d0a-aa4a-bf28eb3a7bd1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Excercises\Course5">
-      <UniqueIdentifier>{19f5a2fe-a656-4104-91b4-f8359a5fa3ec}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Excercises\Course6">
-      <UniqueIdentifier>{316d5617-49cc-4683-afde-75736c5a7a21}</UniqueIdentifier>
+      <UniqueIdentifier>{6b425d7b-12ef-442c-906a-43b25a84d40e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -63,7 +60,7 @@
     <None Include="CourseExcercises\Course4\SimpleFunctions.ino">
       <Filter>Excercises\Course4</Filter>
     </None>
-    <None Include="Course6\StructRover.ino">
+    <None Include="Excercises\Course6\StructExcercise.ino">
       <Filter>Excercises\Course6</Filter>
     </None>
   </ItemGroup>
