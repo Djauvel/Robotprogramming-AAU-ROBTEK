@@ -107,6 +107,7 @@
     <DebuggerFlavor>VisualMicroDebugger</DebuggerFlavor>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="Course6\StructRover.ino" />
     <None Include="CourseExcercises\Course1\RandomValue.ino" />
     <None Include="CourseExcercises\Course1\Variables.ino" />
     <None Include="CourseExcercises\Course2\DataValues.ino" />
