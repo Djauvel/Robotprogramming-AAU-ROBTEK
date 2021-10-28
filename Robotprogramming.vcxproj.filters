@@ -13,15 +13,66 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>xml;json;txt;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Excercises">
+      <UniqueIdentifier>{dd68958a-2a8c-4cc0-b511-c5266b250e90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Excercises\Course1">
+      <UniqueIdentifier>{2e11f6ba-7556-4f89-871b-4f29d279a46f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Excercises\Course2">
+      <UniqueIdentifier>{05f11d43-3589-47d7-ade0-440df7a3b7d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Excercises\Course3">
+      <UniqueIdentifier>{1eeed6a9-847d-4a7a-8335-4ba8dda7ad61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Excercises\Course4">
+      <UniqueIdentifier>{ba866762-1e14-4cb7-977e-09b32153383b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Excercises\Course5">
+      <UniqueIdentifier>{ad6a49f7-e9d0-4608-ba67-0ab6abb03cc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Excercises\Course6">
+      <UniqueIdentifier>{4e79de22-e4cb-44ba-a4c9-5aaee66736d2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <None Include="Robotprogramming.ino" />
     <None Include="src\arduino folders read me.txt">
       <Filter>Misc Files</Filter>
     </None>
+    <None Include="Excercises\Course1\RandomValue.ino">
+      <Filter>Excercises\Course1</Filter>
+    </None>
+    <None Include="Excercises\Course6\StructExcercise.ino">
+      <Filter>Excercises\Course6</Filter>
+    </None>
+    <None Include="Excercises\Course1\Variables.ino">
+      <Filter>Excercises\Course1</Filter>
+    </None>
+    <None Include="Excercises\Course2\DataValues.ino">
+      <Filter>Excercises\Course2</Filter>
+    </None>
+    <None Include="Excercises\Course3\IfElseSwitch.ino">
+      <Filter>Excercises\Course3</Filter>
+    </None>
+    <None Include="Excercises\Course4\Arrays.ino">
+      <Filter>Excercises\Course4</Filter>
+    </None>
+    <None Include="Excercises\Course4\RobotMotorDriveTest.ino">
+      <Filter>Excercises\Course4</Filter>
+    </None>
+    <None Include="Excercises\Course4\RoverSimulation.ino">
+      <Filter>Excercises\Course4</Filter>
+    </None>
+    <None Include="Excercises\Course4\SimpleFunctions.ino">
+      <Filter>Excercises\Course4</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Robotprogramming.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="__vm\.Robotprogramming-AAU-ROBTEK.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
