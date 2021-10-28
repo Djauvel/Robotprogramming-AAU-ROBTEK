@@ -13,19 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>xml;json;txt;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Excercises">
-      <UniqueIdentifier>{09756656-1c47-465c-82be-c0c86a14ed17}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Excercises\Course6">
-      <UniqueIdentifier>{48b05b78-dfe6-4a31-93bf-c9c334cd38a4}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Robotprogramming-AAU.ino" />
     <None Include="src\arduino folders read me.txt">
       <Filter>Misc Files</Filter>
-    </None>
-    <None Include="Excercises\Course6\StructsRover.ino">
-      <Filter>Excercises\Course6</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
