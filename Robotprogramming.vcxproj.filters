@@ -67,6 +67,9 @@
     <None Include="Excercises\Course4\SimpleFunctions.ino">
       <Filter>Excercises\Course4</Filter>
     </None>
+    <None Include="Excercises\Course6\IRLineSensors.ino">
+      <Filter>Excercises\Course6</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Robotprogramming.vsarduino.h">

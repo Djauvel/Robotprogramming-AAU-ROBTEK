@@ -3,7 +3,7 @@
 // This file has the purpose of learning and explaining 1D and 2D arrays.
 // The code in this excercise is made to demonstrate how to use and read arrays of different datatypes.
 
-int vArray[] = { 10, 20, 30 }; // This is an int array. Size: 3
+int vArray[] = { 10, 20, 30 }; // This is an int array. Size: 3. vArray is just a random name.
 String mArray[] = { "mm", "cm", "L" }; // This is called a String array. It's size is 3.
 
 void setup() {

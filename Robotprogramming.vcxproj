@@ -115,6 +115,7 @@
     <None Include="Excercises\Course4\RobotMotorDriveTest.ino" />
     <None Include="Excercises\Course4\RoverSimulation.ino" />
     <None Include="Excercises\Course4\SimpleFunctions.ino" />
+    <None Include="Excercises\Course6\IRLineSensors.ino" />
     <None Include="Excercises\Course6\StructExcercise.ino" />
     <None Include="Robotprogramming.ino">
       <FileType>CppCode</FileType>
