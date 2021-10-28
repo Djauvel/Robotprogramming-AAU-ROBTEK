@@ -5,6 +5,7 @@
 */
 
 // the setup function runs once when you press reset or power the board
+#include <Zumo32U4.h>
 void setup() {
 
 }
