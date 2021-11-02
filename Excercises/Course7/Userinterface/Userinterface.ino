@@ -21,8 +21,6 @@ Zumo32U4Motors motors;
 Zumo32U4Buzzer buzzer;
 Zumo32U4LCD lcd;
 Zumo32U4ButtonA buttonA;
-Zumo32U4ButtonB buttonB;
-Zumo32U4ButtonC buttonC;
 
 bool movementChosen = false;                    //
 bool timeChosen = false;                        // Some boolean values to help construct while loops
@@ -36,7 +34,7 @@ struct operations                               //create a datatype to store cho
   int time;                                     //save an integer for time delay
   };
 
-operations operationData = {'x',0,0};           //create the structure for storing the values
+operations operationData = {'x',0,0};           //create the structure with placeholder values
 
 void setup() {
 }
