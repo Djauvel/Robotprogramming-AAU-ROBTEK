@@ -20,6 +20,7 @@ Zumo32U4Encoders encoders;
 Zumo32U4Motors motors;
 Zumo32U4Buzzer buzzer;
 Zumo32U4LCD lcd;
+Zumo32U4ButtonA buttonA;
 
 bool movementChosen = false;                    //
 bool timeChosen = false;                        // Some boolean values to help construct while loops
